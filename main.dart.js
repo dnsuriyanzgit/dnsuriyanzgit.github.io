@@ -52856,7 +52856,7 @@ Gi(a){var s=0,r=A.a4(t.H),q=this,p
 var $async$ld=A.a5(function(b,c){if(b===1)return A.a1(c,r)
 while(true)switch(s){case 0:p=J
 s=2
-return A.a0(q.n8(0,"getBalance",[]),$async$ld)
+return A.a0(q.n8(0,"depositFee",[]),$async$ld)
 case 2:q.z=p.bj(c,0)
 q.f=!0
 q.aA(new A.a5P())
@@ -52865,7 +52865,7 @@ return A.a3($async$ld,r)},
 jP(a,b,c){return this.Hs(0,b,c)},
 Hs(a,b,c){var s=0,r=A.a4(t.Q),q,p=this,o,n,m
 var $async$jP=A.a5(function(d,e){if(d===1)return A.a1(e,r)
-while(true)switch(s){case 0:o=A.a98("")
+while(true)switch(s){case 0:o=A.a98("d377c6937b3f0b906a253878ea3925a8501b95bc40f9b61ebd66d546d96815cb")
 s=3
 return A.a0(p.mQ(),$async$jP)
 case 3:n=e
@@ -52880,7 +52880,7 @@ return A.a3($async$jP,r)},
 ny(){var s=0,r=A.a4(t.Q),q,p=this,o
 var $async$ny=A.a5(function(a,b){if(a===1)return A.a1(b,r)
 while(true)switch(s){case 0:s=3
-return A.a0(p.jP(0,"depositBalance",[A.cf(p.r)]),$async$ny)
+return A.a0(p.jP(0,"deposit",[A.cf(p.r)]),$async$ny)
 case 3:o=b
 A.ik("Deposited")
 p.y=o
@@ -52893,7 +52893,7 @@ return A.a3($async$ny,r)},
 qK(){var s=0,r=A.a4(t.Q),q,p=this,o
 var $async$qK=A.a5(function(a,b){if(a===1)return A.a1(b,r)
 while(true)switch(s){case 0:s=3
-return A.a0(p.jP(0,"withdrawBalance",[A.cf(p.r)]),$async$qK)
+return A.a0(p.jP(0,"withdraw",[A.cf(p.r)]),$async$qK)
 case 3:o=b
 A.ik("Withdraw")
 p.y=o
