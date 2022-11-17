@@ -20962,31 +20962,30 @@ s=$.afX=A.atM(u.C,new A.KS(new ethers.utils.Interface(s.length===0?$.awQ=B.ag.E9
 awR(){var s=$.afY
 if(s==null){s=$.awS
 s=$.afY=A.atM("0x06C04B0AD236e7Ca3B3189b1d049FE80109C7977",new A.KS(new ethers.utils.Interface(s.length===0?$.awS=B.ag.E9(0,B.ER,null):s)),new A.jj(J.GA($.mg.a),t.CX))}return s},
-D0(a){var s=0,r=A.W(t.z),q,p,o,n,m,l,k
+D0(a){var s=0,r=A.W(t.z),q,p,o,n,m,l
 var $async$D0=A.P(function(b,c){if(b===1)return A.T(c,r)
-while(true)switch(s){case 0:l=J.GA($.mg.a)
-k=$.js
-k.toString
+while(true)switch(s){case 0:m=J.GA($.mg.a)
+l=$.js
+l.toString
 s=3
-return A.M(new A.jj(l,t.CX).ej(0,"estimateGas",[A.aqZ(J.aa(k,0),u.C,a).a],t.sP),$async$D0)
+return A.M(new A.jj(m,t.CX).ej(0,"estimateGas",[A.aqZ(J.aa(l,0),u.C,a).a],t.sP),$async$D0)
 case 3:p=c
 A.c2("Gas price "+p.i(0))
-k=p.Y(0,A.De(13))
-l=A.De(10)
-o=k.pr(0)/l.pr(0)
-A.c2("Gas price 2"+A.h(o))
+l=p.Y(0,A.De(13))
+m=A.De(10)
+A.c2("Gas price 2"+A.h(l.pr(0)/m.pr(0)))
 A.c2("Gas price 3"+A.h(A.awR()))
 A.c2("Gas price 40x61dd8354917c92f986BA81f2222Ac033A4Bb1521")
 s=4
-return A.M(A.awR().ia(0,"approve",A.a([u.C,a,A.aB(["gasLimit",o],t.N,t.i)],t.f)),$async$D0)
-case 4:n=c
+return A.M(A.awR().ia(0,"approve",A.a([u.C,a,A.aB(["gasLimit",3e4],t.N,t.S)],t.f)),$async$D0)
+case 4:o=c
 A.c2("approve done")
-A.c2(n)
+A.c2(o)
 s=5
-return A.M(n.kF(),$async$D0)
-case 5:m=c
-A.c2(m)
-q=m
+return A.M(o.kF(),$async$D0)
+case 5:n=c
+A.c2(n)
+q=n
 s=1
 break
 case 1:return A.U(q,r)}})
