@@ -1,20 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0976bb2.css",
-    "main.js": "/static/js/main.07dc9d0a.js",
-    "static/js/787.d311ca81.chunk.js": "/static/js/787.d311ca81.chunk.js",
-    "static/media/Background_4blur.png": "/static/media/Background_4blur.97a05620fa4577dcd5d1.png",
-    "static/media/metamask.png": "/static/media/metamask.17050ef6dde0193dc93f.png",
-    "static/media/walletButton.png": "/static/media/walletButton.706cba4ec3d43d3bfe72.png",
-    "static/media/wallet.png": "/static/media/wallet.80a855f2ddade21d0436.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.b6d834ea.chunk.css",
+    "main.js": "/static/js/main.45081ee1.chunk.js",
+    "main.js.map": "/static/js/main.45081ee1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ac887d08.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ac887d08.js.map",
+    "static/js/2.56e62bb7.chunk.js": "/static/js/2.56e62bb7.chunk.js",
+    "static/js/2.56e62bb7.chunk.js.map": "/static/js/2.56e62bb7.chunk.js.map",
+    "static/js/3.ac8b41a3.chunk.js": "/static/js/3.ac8b41a3.chunk.js",
+    "static/js/3.ac8b41a3.chunk.js.map": "/static/js/3.ac8b41a3.chunk.js.map",
     "index.html": "/index.html",
-    "main.c0976bb2.css.map": "/static/css/main.c0976bb2.css.map",
-    "main.07dc9d0a.js.map": "/static/js/main.07dc9d0a.js.map",
-    "787.d311ca81.chunk.js.map": "/static/js/787.d311ca81.chunk.js.map"
+    "static/css/main.b6d834ea.chunk.css.map": "/static/css/main.b6d834ea.chunk.css.map",
+    "static/js/2.56e62bb7.chunk.js.LICENSE.txt": "/static/js/2.56e62bb7.chunk.js.LICENSE.txt",
+    "static/media/ButtonApprove.1cbb804e.png": "/static/media/ButtonApprove.1cbb804e.png",
+    "static/media/ButtonApproved.8dce9e30.png": "/static/media/ButtonApproved.8dce9e30.png",
+    "static/media/ButtonDeposit.084bf5e1.png": "/static/media/ButtonDeposit.084bf5e1.png",
+    "static/media/ButtonLogin.ab594d68.png": "/static/media/ButtonLogin.ab594d68.png",
+    "static/media/ButtonWithdraw.7f65251e.png": "/static/media/ButtonWithdraw.7f65251e.png",
+    "static/media/App.css": "/static/media/image.92f5f9cc.png",
+    "static/media/walletButton.50d81015.png": "/static/media/walletButton.50d81015.png",
+    "static/media/walletconnectButton.c3891cf7.png": "/static/media/walletconnectButton.c3891cf7.png"
   },
   "entrypoints": [
-    "static/css/main.c0976bb2.css",
-    "static/js/main.07dc9d0a.js"
+    "static/js/runtime-main.ac887d08.js",
+    "static/js/2.56e62bb7.chunk.js",
+    "static/css/main.b6d834ea.chunk.css",
+    "static/js/main.45081ee1.chunk.js"
   ]
 }
